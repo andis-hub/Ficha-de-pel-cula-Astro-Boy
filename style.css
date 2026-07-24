@@ -15,7 +15,7 @@ body {
   align-items: center;
   padding: 20px;
 
-  background-image: url("imagenes/astro-boy.jpg");
+  background-image: url("astro-boy.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
